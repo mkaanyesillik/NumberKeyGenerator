@@ -1,0 +1,19 @@
+c:\users\mkaan\documents\visual studio 2015\Projects\KeyListOluşturucu\KeyListOluşturucu\bin\Debug\KeyListOluşturucu.exe.config
+c:\Users\mkaan\Documents\Visual Studio 2015\Projects\KeyListOluşturucu\KeyListOluşturucu\obj\Debug\KeyListOluşturucu.csprojResolveAssemblyReference.cache
+c:\Users\mkaan\Documents\Visual Studio 2015\Projects\KeyListOluşturucu\KeyListOluşturucu\obj\Debug\KeyListOluşturucu.FormKeyListOlustur.resources
+c:\Users\mkaan\Documents\Visual Studio 2015\Projects\KeyListOluşturucu\KeyListOluşturucu\obj\Debug\KeyListOluşturucu.Properties.Resources.resources
+c:\Users\mkaan\Documents\Visual Studio 2015\Projects\KeyListOluşturucu\KeyListOluşturucu\obj\Debug\KeyListOluşturucu.csproj.GenerateResource.Cache
+c:\Users\mkaan\Documents\Visual Studio 2015\Projects\KeyListOluşturucu\KeyListOluşturucu\bin\Debug\KeyListOluşturucu.exe
+c:\Users\mkaan\Documents\Visual Studio 2015\Projects\KeyListOluşturucu\KeyListOluşturucu\bin\Debug\KeyListOluşturucu.pdb
+c:\Users\mkaan\Documents\Visual Studio 2015\Projects\KeyListOluşturucu\KeyListOluşturucu\obj\Debug\KeyListOluşturucu.exe
+c:\Users\mkaan\Documents\Visual Studio 2015\Projects\KeyListOluşturucu\KeyListOluşturucu\obj\Debug\KeyListOluşturucu.pdb
+E:\Yazılım\Masaüstü Projeler\KeyListOluşturucu\KeyListOluşturucu\bin\Debug\KeyListOluşturucu.exe.config
+E:\Yazılım\Masaüstü Projeler\KeyListOluşturucu\KeyListOluşturucu\bin\Debug\KeyListOluşturucu.exe
+E:\Yazılım\Masaüstü Projeler\KeyListOluşturucu\KeyListOluşturucu\bin\Debug\KeyListOluşturucu.pdb
+E:\Yazılım\Masaüstü Projeler\KeyListOluşturucu\KeyListOluşturucu\obj\Debug\KeyListOluşturucu.csproj.AssemblyReference.cache
+E:\Yazılım\Masaüstü Projeler\KeyListOluşturucu\KeyListOluşturucu\obj\Debug\KeyListOluşturucu.FormKeyListOlustur.resources
+E:\Yazılım\Masaüstü Projeler\KeyListOluşturucu\KeyListOluşturucu\obj\Debug\KeyListOluşturucu.Properties.Resources.resources
+E:\Yazılım\Masaüstü Projeler\KeyListOluşturucu\KeyListOluşturucu\obj\Debug\KeyListOluşturucu.csproj.GenerateResource.cache
+E:\Yazılım\Masaüstü Projeler\KeyListOluşturucu\KeyListOluşturucu\obj\Debug\KeyListOluşturucu.csproj.CoreCompileInputs.cache
+E:\Yazılım\Masaüstü Projeler\KeyListOluşturucu\KeyListOluşturucu\obj\Debug\KeyListOluşturucu.exe
+E:\Yazılım\Masaüstü Projeler\KeyListOluşturucu\KeyListOluşturucu\obj\Debug\KeyListOluşturucu.pdb
